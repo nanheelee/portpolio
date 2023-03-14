@@ -23,7 +23,7 @@
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
 
 
-![image](https://user-images.githubusercontent.com/126562076/224893940-552595d8-f046-411a-8448-492c1843dc58.png)
+![image](https://user-images.githubusercontent.com/126562076/224894997-bc2fa4c1-25f2-4aad-a8f3-bdb4771b7858.png)
 
 
 * Float 레이아웃 → Flex 레이아웃 변경
@@ -34,7 +34,7 @@
 
 * 여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정
 
-![image](https://user-images.githubusercontent.com/126562076/224894217-fcefe713-82ab-4574-a310-d15e64596fe7.png)
+![image](https://user-images.githubusercontent.com/126562076/224895027-f8cdd1f0-20d4-4d43-aa5d-d2a5f61f13d0.png)
 
 
 
