@@ -4,7 +4,7 @@
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
 * Float 레이아웃 → Flex 레이아웃 변경
 * 웹표준 준수
-* 한 페이지 안에 여러개의 TAB메뉴 존재 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정
+* 여러 개의 TAB메뉴 함수로 동작 
 * 미디어쿼리 이용한 반응형 구현
 * 상단 GNB와 전체메뉴(Full Menu) - 반응형 구현
 
@@ -23,11 +23,13 @@
 
 ## 3. Advanced Feature
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
-* ![image](https://user-images.githubusercontent.com/126562076/224893940-552595d8-f046-411a-8448-492c1843dc58.png)
+![image](https://user-images.githubusercontent.com/126562076/224893940-552595d8-f046-411a-8448-492c1843dc58.png)
 
 * Float 레이아웃 → Flex 레이아웃 변경
-* 한 페이지 안에 여러개의 TAB메뉴 존재
 
+
+* 여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정
+![image](https://user-images.githubusercontent.com/126562076/224894217-fcefe713-82ab-4574-a310-d15e64596fe7.png)
 
 
 
