@@ -38,7 +38,7 @@
 
 ## 3. Advanced Feature
 
-:heavy_check_mark: ** Visual Slider - JS 코드 **
+:heavy_check_mark: **Visual Slider 코드**
 
 ![image](https://user-images.githubusercontent.com/126562076/224904529-6900e55a-d257-4480-8124-cbf956fc9668.png)
 
