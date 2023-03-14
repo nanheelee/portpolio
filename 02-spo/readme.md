@@ -48,7 +48,7 @@
 :heavy_check_mark: **gnb메뉴 웹접근성 고려한 focus 이벤트 연결**
 
 
-
+:heavy_check_mark: ** 2줄이상 text 말줄임표 처리 **
 
 
 
