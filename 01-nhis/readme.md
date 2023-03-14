@@ -1,6 +1,6 @@
-# 건강보험공단
+# 건강보험공단 (clon coning)
 
-사이트 데모 <http://sachory.dothome.co.kr/>
+사이트 데모 : [<http://sachory.dothome.co.kr/>](http://sachory.dothome.co.kr/01-nhis/index.html)
 
 ## 1. 개발 목표
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
