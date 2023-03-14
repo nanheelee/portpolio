@@ -20,14 +20,18 @@
   
    
 ## 2. 작업 정보
-* 하드코딩 / 개인프로젝트 / 클론코딩
+* 하드코딩 / 개인프로젝트 / 클론코딩 / 반응형
 * 기간 : 2주 / 담당 : 퍼블리싱 100%
-* 사용기술 : HTML, CSS, JQuery, 
+* 사용기술 : HTML, CSS, JQuery
 * 개발환경 : Visual Studio Code, git, github
-* 제이쿼리 UI 제작
-  * GNB
+* JQuery UI 제작
+  * GNB 
   * TAB menu
   * Toggle mene (전체메뉴)
+  * Search box
+  * Top 이동 버튼
+* JQuery Plugin
+  * Swiper
 
 
 
