@@ -50,7 +50,7 @@
 
 ## 4. 개선사항
 
-* 전체메뉴 pc버전 - focusin, focusout 추가
+* 전체메뉴 열기/닫기 버튼 - focusin, focusout 이벤트 추가
 
 
 
