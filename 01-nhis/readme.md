@@ -7,6 +7,7 @@
 * 여러 개의 TAB메뉴 함수로 동작 
 * 미디어쿼리 이용한 반응형 구현
 * 상단 GNB와 전체메뉴(Full Menu) - 반응형 구현
+* 웹접근성 고려한 focus 이벤트 연결
 
 
 
@@ -36,10 +37,13 @@
 
 ![image](https://user-images.githubusercontent.com/126562076/224895027-f8cdd1f0-20d4-4d43-aa5d-d2a5f61f13d0.png)
 
+* 웹접근성 고려한 focus 이벤트 연결
+
 
 
 ## 4. 개선사항
 
+* 전체메뉴 pc버전 - focusin, focusout 추가
 
 
 
