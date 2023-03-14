@@ -24,7 +24,7 @@
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
 
 
-![image](https://user-images.githubusercontent.com/126562076/224894997-bc2fa4c1-25f2-4aad-a8f3-bdb4771b7858.png)
+![image](https://user-images.githubusercontent.com/126562076/224896396-c6012b55-fa27-4b0d-a60e-9b93e65d01d9.png)
 
 
 
@@ -37,13 +37,13 @@
 
 * 여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정
 
-![image](https://user-images.githubusercontent.com/126562076/224895027-f8cdd1f0-20d4-4d43-aa5d-d2a5f61f13d0.png)
+![image](https://user-images.githubusercontent.com/126562076/224896445-89e8b62a-5e9b-4214-bec7-cceb9a19e7f6.png)
 
 
 * gnb메뉴 웹접근성 고려한 focus 이벤트 연결
 
 
-![image](https://user-images.githubusercontent.com/126562076/224896198-89c5f945-b450-4b94-b51b-69ddfe5a7984.png)
+![image](https://user-images.githubusercontent.com/126562076/224896333-f60db4d1-0ff7-4a55-948c-0e3b7cb2047e.png)
 
 
 
