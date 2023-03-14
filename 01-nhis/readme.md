@@ -29,6 +29,9 @@
 * Float 레이아웃 → Flex 레이아웃 변경
 
 
+![image](https://user-images.githubusercontent.com/126562076/224894923-12e4d26b-80a3-4396-b0e5-361abfde6d66.png)
+
+
 * 여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정
 
 ![image](https://user-images.githubusercontent.com/126562076/224894217-fcefe713-82ab-4574-a310-d15e64596fe7.png)
