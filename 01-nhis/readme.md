@@ -1,5 +1,7 @@
 # 건강보험공단
 
+사이트 데모 <http://sachory.dothome.co.kr/>
+
 ## 1. 개발 목표
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
 * Float 레이아웃 → Flex 레이아웃 변경
@@ -11,6 +13,7 @@
 
  
  
+-----
   
   
    
@@ -21,9 +24,9 @@
 * 개발환경 : Visual Studio Code, git, github
 
 
-  
-  
-    
+-----
+
+
 
 ## 3. Advanced Feature
 :heavy_check_mark: div태그 레이아웃 → 시맨틱 태그 구조 변경
@@ -53,7 +56,7 @@
 ![image](https://user-images.githubusercontent.com/126562076/224896333-f60db4d1-0ff7-4a55-948c-0e3b7cb2047e.png)
 
 
-
+-----
 
 ## 4. 개선사항
 
