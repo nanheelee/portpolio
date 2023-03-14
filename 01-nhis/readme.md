@@ -24,7 +24,7 @@
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
 
 
-![image](https://user-images.githubusercontent.com/126562076/224896396-c6012b55-fa27-4b0d-a60e-9b93e65d01d9.png)
+![image](https://user-images.githubusercontent.com/126562076/224896510-79796d28-941b-402c-9ffb-e970f129a46f.png)
 
 
 
