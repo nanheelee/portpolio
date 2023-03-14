@@ -23,6 +23,8 @@
 
 ## 3. Advanced Feature
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
+* ![image](https://user-images.githubusercontent.com/126562076/224893940-552595d8-f046-411a-8448-492c1843dc58.png)
+
 * Float 레이아웃 → Flex 레이아웃 변경
 * 한 페이지 안에 여러개의 TAB메뉴 존재
 
