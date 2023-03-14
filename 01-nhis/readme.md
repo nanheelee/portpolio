@@ -25,9 +25,13 @@
 * 사용기술 : HTML, CSS, JQuery, 
 * 개발환경 : Visual Studio Code, git, github
 * 제이쿼리 UI 제작
+* 
 ** GNB
+
 ** TAB menu
+
 ** Toggle mene (전체메뉴)
+
 
 
 
