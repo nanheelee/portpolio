@@ -20,11 +20,13 @@
 <br><br>
 ## :pushpin: 개인 Project
 
-건강보험공단|검찰청|오가닉베이커리|오로나민C|하겐다즈|
----|---|---|---|---|
-김도현|98점|87점|100점|
-[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)|  [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery))| [데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
-
+건강보험공단|검찰청|오가닉베이커리|
+---|---|---|
+![image](https://user-images.githubusercontent.com/126562076/225209778-6b196265-b64d-4f14-966c-33bfdf2e782e.png)|![image](https://user-images.githubusercontent.com/126562076/225209848-f72504de-61a7-43d4-bad1-2ecd063db6a1.png)|![image](https://user-images.githubusercontent.com/126562076/225209873-0b57c24b-4111-4aa2-a8ac-6594f8d7a60b.png)|
+[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)|  [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery))|
+오로나민C|하겐다즈|
+![image](https://user-images.githubusercontent.com/126562076/225209916-2175c96c-4560-4f7e-ac19-b8a64b3994a9.png) |![image](https://user-images.githubusercontent.com/126562076/225209950-505da94f-df19-4e4c-87c6-11af5b14ece0.png)|
+[데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
 
 <br><br>
 ## :pushpin: About
