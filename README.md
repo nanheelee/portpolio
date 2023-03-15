@@ -3,7 +3,31 @@
 - :love_letter: 이메일 : sachory@naver.com
 - <img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=GitHub&logoColor=white" /> : https://github.com/nanheelee/portpolio
 
-## :pushpin: Intro
+<br><br>
+## :pushpin: Tech Stack 
+**1) Languages :speech_balloon:**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />  /  <img src="https://img.shields.io/badge/-Respond web-ca6598?style=flat-square&logo=htmlacademy&logoColor=white"/> <img src="https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/-Interative%20Motion-FF8800?style=flat-square&logo=Funimation&logoColor=white"/>
+
+**2) Tools :hammer:**
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" /> / <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" /> / <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white" /> <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=Microsoft Word&logoColor=white" /> <img src="https://img.shields.io/badge/Power Point-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=white" />
+
+**3) I'm practicing 👀**
+
+![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
+  
+<br><br>
+## :pushpin: 개인 Project
+
+건강보험공단|검찰청|오가닉베이커리|오로나민C|하겐다즈|
+---|---|---|---|---|
+김도현|98점|87점|100점|
+[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)|  [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery))| [데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
+
+
+<br><br>
+## :pushpin: About
 
 
 ### 1) 웹퍼블리셔 관련 경력
@@ -26,38 +50,17 @@
 ### 3) 문서작성 능력 탁월
 
 - 10년 이상 OA(한글, 엑셀, PPT)강의
-- 강의 교재 제작 경험
+- 수강생 위한 보조 강의 교재 제작 다수
 - 문화센터에서 세미나 기획 및 강연 준비 → 훈련된 문서 정리 능력
 
 ### 4) 기타 기술 - 약 15년간 강의 경력
-- 웹퍼블리셔 과정 - HTML/CSS/Javascript/Jquery
-- 프로그램언어 기초코딩 : C, Java, 파이썬
-- OA ( 한글, 파워포인트, 엑셀) 자격증 과정 
-- 자기소개서 코칭
+- 기간 : 2008.10 ~ 2023 현재
+- 강의 가능 과목
+  - 웹퍼블리셔 과정 - HTML/CSS/Javascript/Jquery
+  - 프로그램언어 기초코딩 : C, Java, 파이썬
+  - OA ( 한글, 파워포인트, 엑셀) 자격증 과정 
+  - 자기소개서 코칭
 
-
-
-## :pushpin: Tech Stack 
-**1) Languages**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-
-
- <img src="https://img.shields.io/badge/-Respond web-ca6598?style=flat-square&logo=htmlacademy&logoColor=white"/> <img src="https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/-Interative%20Motion-FF8800?style=flat-square&logo=Funimation&logoColor=white"/>
-
-**2) Tools**
-
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
-  
-
-## :pushpin: 개인 Project
-
-건강보험공단|검찰청|오가닉베이커리|오로나민C|하겐다즈|
----|---|---|---|---|
-김도현|98점|87점|100점|
-[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)|  [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery))| [데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
 
 
 
