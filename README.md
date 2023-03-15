@@ -35,8 +35,8 @@
 [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery))| [데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
 
 <br><br>
-## :pushpin: About
 
+## :pushpin: About
 
 ### 1) 웹퍼블리셔 관련 경력
 
@@ -53,7 +53,8 @@
 - 비전공자를 위한 꼼꼼한 강의로 탄탄한 기초 정립 <strong>☞ 문제해결 능력 상승!</strong>
 - 프로그래밍 기초 이론에 대한 이해가 높음
   - 개발 분야에 빠른 지식 습득력/적응력/확장성 가지고 있음 
-  - 기초코딩 가능과목 : C, JAVA, PYTHON <img src="https://img.shields.io/badge/C language-A8B9CC?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=CoffeeScript&logoColor=333333" />
+  - 기초코딩 가능과목 : C, JAVA, PYTHON 
+
 
 ### 3) 문서작성 능력 탁월
 
