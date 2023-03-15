@@ -43,24 +43,12 @@
 
 
 
-:heavy_check_mark: **Visual Slider 코드**
-
-
-
-
-
-
-
-
-
-
-
 
 ## 4. 개선사항
 
 
 
-## 5. 개발후기
+
 
 
 
