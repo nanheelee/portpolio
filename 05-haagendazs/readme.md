@@ -29,7 +29,7 @@
 
 ## 3. Advanced Feature
 
-:heavy_check_mark: **isotope 플러그인 탭메뉴 레이아웃 **
+:heavy_check_mark: **isotope 플러그인 탭메뉴 레이아웃**
 
 * html
 ![image](https://user-images.githubusercontent.com/126562076/225225792-bbff285e-e418-4956-8769-e019b5b59bf6.png)
