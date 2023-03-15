@@ -24,10 +24,10 @@
 
 ### 1) Clon Coning
 
-건강보험공단|검찰청|
----|---|
+건강보험공단|검찰청| |
+---|---|---|
 ![image](https://user-images.githubusercontent.com/126562076/225209778-6b196265-b64d-4f14-966c-33bfdf2e782e.png)|![image](https://user-images.githubusercontent.com/126562076/225209848-f72504de-61a7-43d4-bad1-2ecd063db6a1.png)|
-[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)| 
+[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)| |
 
 ### 2) UI 디자이너 협업 
 
