@@ -1,12 +1,12 @@
 # 이난희 포트폴리오
 
-- 이메일: sachory@naver.com
-- 깃헙: https://github.com/nanheelee/portpolio
+- :love_letter: 이메일 : sachory@naver.com
+- <img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=GitHub&logoColor=white" /> : https://github.com/nanheelee/portpolio
 
 ## :pushpin: Intro
 
 
-### 1) 경력
+### 1) 웹퍼블리셔 관련 경력
 
 - (주) 엠씨알엠 - 데이콤 우수고객 사이트 유지/보수 관리 - 2003.01 ~ 2004.01
 - (주) 한샘 - 한샘/한샘몰 공식 사이트를 유지, 보수 - 2004.02 ~ 2006.03 <br> 
@@ -26,7 +26,8 @@
 ### 3) 문서작성 능력 탁월
 
 - 10년 이상 OA(한글, 엑셀, PPT)강의
-- 문화센터에서 세미나 기획 및 강연 준비로 훈련된 문서 정리 능력
+- 강의 교재 제작 경험
+- 문화센터에서 세미나 기획 및 강연 준비 → 훈련된 문서 정리 능력
 
 ### 4) 기타 기술 - 약 15년간 강의 경력
 - 웹퍼블리셔 과정 - HTML/CSS/Javascript/Jquery
@@ -51,45 +52,13 @@
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
   
 
-## :pushpin: Project
-### 1. 건강보험공단 (Clon Coding)
+## :pushpin: 개인 Project
 
-[데모] http://sachory.dothome.co.kr/01-nhis/index.html
-
-[상세 설명] https://github.com/nanheelee/portpolio/tree/master/01-nhis
-
----
-
-### 2. 검찰청 (Clon Coding)
-
-[데모] http://sachory.dothome.co.kr/02-spo/index.html
-
-[상세 설명] https://github.com/nanheelee/portpolio/blob/master/02-spo
-
----
-
-### 3. 오가닉 베이커리 (개인프로젝트)
-
-[데모] http://sachory.dothome.co.kr/03-bakery/index.html
-
-[상세 설명] https://github.com/nanheelee/portpolio/blob/master/03-bakery
-
----
-
-### 4. 오로나민C (개인프로젝트)
-
-[데모] http://sachory.dothome.co.kr/04-oronaminc/index.html
-
-[상세 설명] https://github.com/nanheelee/portpolio/blob/master/04-oronaminc
-
----
-
-### 5. 하겐다즈 (개인프로젝트)
-
-[데모] http://sachory.dothome.co.kr/05-haagendazs/index.html
-
-[상세 설명] https://github.com/nanheelee/portpolio/tree/master/05-haagendazs
+건강보험공단|검찰청|오가닉베이커리|오로나민C|하겐다즈|
+---|---|---|---|---|
+김도현|98점|87점|100점|
+[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)|  [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery))| [데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
 
 
-## :pushpin: Work
+
 
