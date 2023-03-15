@@ -48,8 +48,12 @@
 
 :heavy_check_mark: ** 전체메뉴 반응형 **<br>
 PC버전
-<img src="https://user-images.githubusercontent.com/126562076/225222516-fc28204c-46d1-4337-87fb-61e86bb94e5f.png" width = "400px">
-![image]()
+
+<img src="https://user-images.githubusercontent.com/126562076/225222516-fc28204c-46d1-4337-87fb-61e86bb94e5f.png" width="600px">
+
+ ![image](https://user-images.githubusercontent.com/126562076/225222879-963fc0c4-dc1e-45cd-b054-7b9ac6bd057b.png)
+
+Mo버전
 
 
 
