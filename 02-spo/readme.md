@@ -49,13 +49,13 @@
 :heavy_check_mark: **전체메뉴 반응형** <br>
 - pc버전에서는 전체 메뉴가 보이고, Mobile버전에서 탭메뉴 형식으로 변형됨.
 
-**PC 버전**
+* **PC 버전**
 
 <img src="https://user-images.githubusercontent.com/126562076/225222516-fc28204c-46d1-4337-87fb-61e86bb94e5f.png" width="600px">
 
 ![image](https://user-images.githubusercontent.com/126562076/225222879-963fc0c4-dc1e-45cd-b054-7b9ac6bd057b.png)
 
-**Mobile 버전**
+* **Mobile 버전**
 
 <img src="https://user-images.githubusercontent.com/126562076/225224494-7b924ba8-debb-42a2-af88-2354e6b4b577.png" width="600px">
 
