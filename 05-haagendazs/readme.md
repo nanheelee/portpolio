@@ -8,7 +8,7 @@
 
 ## 1. 개발 목표
 * 비주얼 slider
-  * JQuery로 구현한 코드
+  * JQuery 코드 구현
   * animation css 적용한 인터렉티브한 기능 구현
 * istope 플러그인을 이용한 인테렉티브 탭메뉴 구현
 * 시맨틱 태그 / Flex 레이아웃 / 반응형
