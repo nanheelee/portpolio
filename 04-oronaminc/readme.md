@@ -49,7 +49,11 @@
 - 페이지 이동 속도 빠르게 조절 
 
 ## 5. 기타사항
-- 마우스휠 풀페이지 기능 추가하였으나 사용성에 있어 불편하여 코드 제외함. 
+- 마우스휠 풀페이지 기능 추가하였으나 사용성에 있어 불편하여 코드 제외함 (아래 코드)
+
+![image](https://user-images.githubusercontent.com/126562076/225227213-8e95b596-535c-4080-a312-ffced1e1ff7a.png)
+
+![image](https://user-images.githubusercontent.com/126562076/225227293-3df1f47d-30cd-4d0a-b3a0-55419a3e8430.png)
 
 
 
