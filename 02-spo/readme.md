@@ -57,7 +57,7 @@
 
 **Mobile 버전**
 
-<img src="https://user-images.githubusercontent.com/126562076/225223060-e858a519-9c2f-45cf-86e6-1e305e48ee69.png" width="600px">
+<img src="https://user-images.githubusercontent.com/126562076/225224494-7b924ba8-debb-42a2-af88-2354e6b4b577.png" width="600px">
 
 ![image](https://user-images.githubusercontent.com/126562076/225223165-9c7598f2-b06b-497f-819d-4741b2639de8.png)
 
