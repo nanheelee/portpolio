@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/126562076/224897743-527417ca-23f3-4c5d-ae72-8ac6defa981b.png)
 
-사이트 데모 : [<http://sachory.dothome.co.kr/>](http://sachory.dothome.co.kr/01-nhis/index.html)
+사이트 데모 : [<http://sachory.dothome.co.kr/01-nhis/index.html>](http://sachory.dothome.co.kr/01-nhis/index.html)
 
 ## 1. 개발 목표
 * div태그 레이아웃 → 시맨틱 태그 구조 변경
