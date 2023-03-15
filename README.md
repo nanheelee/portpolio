@@ -2,6 +2,7 @@
 
 - :love_letter: 이메일 : sachory@naver.com
 - <img src="https://img.shields.io/badge/Git Hub-181717?style=flat&logo=GitHub&logoColor=white" /> : https://github.com/nanheelee/portpolio
+- :phone: 연락처 : 010-44**-26**
 
 <br><br>
 ## :pushpin: Tech Stack 
