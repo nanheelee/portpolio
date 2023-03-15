@@ -32,12 +32,14 @@
 
 ## 3. Advanced Feature
 
-:heavy_check_mark: ** Visual Slider 코드**
+:heavy_check_mark: **Visual Slider 코드 **
 
-:heavy_check_mark: ** Story 영역 - Position 레이아웃 + hover효과 + 반응형 **
+![image](https://user-images.githubusercontent.com/126562076/225229325-68b3314a-74d2-48b4-a866-6daae11e4037.png)
+
+:heavy_check_mark: **Story 영역 - Position 레이아웃 + hover효과 + 반응형 **
 
 
-:heavy_check_mark: ** 좌측 Page 이동 버튼 **
+:heavy_check_mark: **좌측 Page 이동 버튼 **
 
 
 
