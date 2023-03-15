@@ -7,8 +7,10 @@
 
 ## 1. 개발 목표
 * 비주얼 slider
-  * JQuery로 구현한 코드
+  * JQuery 코드 구현
   * Circle-Progress 플러그인 사용하여 인터렉티브한 효과 구현
+* Tab Slider
+  * 버튼을 클릭하면 해당 이미지로 슬라이드 - JQuery 코드 구현
 * 시맨틱 태그 / Flex 레이아웃 / 반응형
 * 웹접근성 고려한 focus 이벤트 연결
 
