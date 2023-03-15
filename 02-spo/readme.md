@@ -46,7 +46,8 @@
 
 
 
-:heavy_check_mark: **전체메뉴 반응형 **<br>
+:heavy_check_mark: **전체메뉴 반응형** <br>
+- pc버전에서는 전체 메뉴가 보이고, Mobile버전에서 탭메뉴 형식으로 변형됨.
 
 **PC 버전**
 
