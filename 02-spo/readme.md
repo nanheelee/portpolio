@@ -40,15 +40,20 @@
 
 ## 3. Advanced Feature
 
-:heavy_check_mark: **여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정**
+:heavy_check_mark: ** text 말줄임표 처리**<br>
+
+![image](https://user-images.githubusercontent.com/126562076/225221539-4ac2c371-17e5-4851-ba01-a5932fd0c5ac.png)
+
+
+:heavy_check_mark: **여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정**<br>
 
 
 
 
-:heavy_check_mark: **gnb메뉴 웹접근성 고려한 focus 이벤트 연결**
+:heavy_check_mark: **gnb메뉴 웹접근성 고려한 focus 이벤트 연결**<br>
 
 
-:heavy_check_mark: **2줄이상 text 말줄임표 처리**
+
 
 
 
