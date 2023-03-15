@@ -45,16 +45,15 @@
 ![image](https://user-images.githubusercontent.com/126562076/225221539-4ac2c371-17e5-4851-ba01-a5932fd0c5ac.png)
 
 
-:heavy_check_mark: **여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 Jquery 코드 수정**<br>
-
-
-
 
 :heavy_check_mark: **gnb메뉴 웹접근성 고려한 focus 이벤트 연결**<br>
 
+![image](https://user-images.githubusercontent.com/126562076/225222048-3fb7842d-30cc-4185-b669-3962016306bc.png)
 
 
+:heavy_check_mark: **여러 개의 TAB메뉴 - 한 개의 함수로 제어 가능하도록 함수화 / foucus 이벤트 연결**<br>
 
+![image](https://user-images.githubusercontent.com/126562076/225221876-fd91150b-4a9e-4ba6-ba52-03c7a19dd9da.png)
 
 
 ## 4. 개선사항
