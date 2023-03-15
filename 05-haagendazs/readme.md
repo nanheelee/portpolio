@@ -6,7 +6,7 @@
 
 사이트 데모 : [<http://sachory.dothome.co.kr/05-haagendazs/index.html>](http://sachory.dothome.co.kr/05-haagendazs/index.html)
 
-## 1. 개발 내용
+## 1. 개발 핵심
 * 비주얼 slider
   * JQuery 코드 구현
   * animation css 적용한 인터렉티브한 기능 구현
