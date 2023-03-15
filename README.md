@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
   
 <br><br>
-## :pushpin: 개인 Project
+## :pushpin: 개인 Project (반응형)
 
 ### 1) 클론 코딩
 
