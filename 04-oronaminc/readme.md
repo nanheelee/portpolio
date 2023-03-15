@@ -5,7 +5,7 @@
 
 사이트 데모 : [<http://sachory.dothome.co.kr/04-oronaminc/index.html>](http://sachory.dothome.co.kr/04-oronaminc/index.html)
 
-## 1. 개발 목표
+## 1. 개발 핵심
 * 비주얼 slider
   * JQuery로 구현한 코드
   * animation css 적용한 인터렉티브한 기능 구현
@@ -45,9 +45,9 @@
 
 ## 4. 개선사항
 
+- 비주얼 슬라이드 부분 이미지 고화질 이미지로 재작업 필요
+- 페이지 이동 속도 빠르게 조절 
 
-
-## 5. 개발후기
 
 
 
