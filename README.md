@@ -22,7 +22,7 @@
 <br><br>
 ## :pushpin: 개인 Project
 
-### 1) Clon Coning
+### 1) 클론 코딩
 
 건강보험공단|검찰청| Updating Soon |
 ---|---|---|
