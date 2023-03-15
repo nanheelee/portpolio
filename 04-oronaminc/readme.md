@@ -32,7 +32,7 @@
 
 ## 3. Advanced Feature
 
-:heavy_check_mark: **Visual Slider 코드 **
+:heavy_check_mark: **Visual Slider 코드**
 
 ![image](https://user-images.githubusercontent.com/126562076/225229325-68b3314a-74d2-48b4-a866-6daae11e4037.png)
 
