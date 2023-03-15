@@ -27,17 +27,16 @@
 건강보험공단|검찰청| Updating Soon |
 ---|---|---|
 ![image](https://user-images.githubusercontent.com/126562076/225209778-6b196265-b64d-4f14-966c-33bfdf2e782e.png)|![image](https://user-images.githubusercontent.com/126562076/225209848-f72504de-61a7-43d4-bad1-2ecd063db6a1.png)|![image](https://user-images.githubusercontent.com/126562076/225215273-cf7fc5d5-3e4b-4829-a0f9-1a935fd521d6.png)|
-[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)| |
-|||
+[데모](http://sachory.dothome.co.kr/01-nhis/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/01-nhis) | [데모](http://sachory.dothome.co.kr/02-spo/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/02-spo)| 
+
 
 ### 2) UI 디자이너 협업 
 
 오가닉베이커리|오로나민C|하겐다즈|
 ---|---|---|
-![image](https://user-images.githubusercontent.com/126562076/225209873-0b57c24b-4111-4aa2-a8ac-6594f8d7a60b.png) | ![image](https://user-images.githubusercontent.com/126562076/225213679-36754750-2ae4-45d0-b14e-c082896596d0.png) | ![image](https://user-images.githubusercontent.com/126562076/225214819-288dfc71-234a-40aa-96b0-02bdd3144a72.png)
- 
+![image](https://user-images.githubusercontent.com/126562076/225209873-0b57c24b-4111-4aa2-a8ac-6594f8d7a60b.png) | ![image](https://user-images.githubusercontent.com/126562076/225213679-36754750-2ae4-45d0-b14e-c082896596d0.png) | ![image](https://user-images.githubusercontent.com/126562076/225216484-b8b829d1-845c-464e-bd25-519948db140f.png)|
 [데모](http://sachory.dothome.co.kr/03-bakery/index.html)  / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/03-bakery)| [데모](http://sachory.dothome.co.kr/04-oronaminc/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/blob/master/04-oronaminc)| [데모](http://sachory.dothome.co.kr/05-haagendazs/index.html) / [상세 설명](https://github.com/nanheelee/portpolio/tree/master/05-haagendazs)|
-|||
+
 <br><br>
 
 ## :pushpin: About
