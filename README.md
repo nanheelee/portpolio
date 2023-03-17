@@ -41,11 +41,11 @@
 <br><br>
 ## :pushpin: CSS Effect
 
-### 1) Frame Effect
+### 1) Frame Effect : Update Soon
 
-### 2) Button Effect
+### 2) Button Effect : Update Soon
 
-### 3) icon Effect
+### 3) icon Effect : Update Soon
 
 ## :pushpin: About
 
