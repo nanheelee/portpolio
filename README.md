@@ -19,6 +19,7 @@
 **3) I'm practicing 👀**
 
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
+![Scss](https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)
   
 <br><br>
 ## :pushpin: 개인 Project (반응형)
