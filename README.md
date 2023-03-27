@@ -10,7 +10,7 @@
 ## :pushpin: Tech Stack 
 **1) Languages :speech_balloon:**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />  /  <img src="https://img.shields.io/badge/-Respond web-ca6598?style=flat-square&logo=htmlacademy&logoColor=white"/> <img src="https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/-Interative%20Motion-FF8800?style=flat-square&logo=Funimation&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> ![Scss](https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff) /  <img src="https://img.shields.io/badge/-Respond web-ca6598?style=flat-square&logo=htmlacademy&logoColor=white"/> <img src="https://img.shields.io/badge/-Cross%20browsing-302683?style=flat-square&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/-Interative%20Motion-FF8800?style=flat-square&logo=Funimation&logoColor=white"/> 
 
 **2) Tools :hammer:**
 
@@ -19,7 +19,7 @@
 **3) I'm practicing 👀**
 
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=ffffff)
-![Scss](https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)
+
   
 <br><br>
 ## :pushpin: 개인 Project (반응형)
