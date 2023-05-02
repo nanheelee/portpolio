@@ -1,4 +1,4 @@
-# 이난희 포트폴리오
+# 이00포트폴리오
 
 - :phone: 연락처 : 010-44**-26**
 - :love_letter: 이메일 : sachory@naver.com
